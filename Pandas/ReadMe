@@ -1,1 +1,5 @@
+This section aims to make you familiar with Pandas library and operations we can perform with it.
+Pandas is useful when we have large data sets and we need to manipulate them to arrive at some result.
 
+The tutorial covers topics such as reading from files, playing around missing values, reading HTML content, 
+reading and writing to/ from excel or csv files, storing data in pickle files, etc.
